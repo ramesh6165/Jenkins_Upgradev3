@@ -1,9 +1,9 @@
-package com.example;
+Masteriiiiiipackage com.example;
 
 /**
  * This is a class.
  */
-public class Greeter {
+public classi Greeter {
 
   /**
    * This is a constructor.
@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method & Hi & Good Evening This is your trainer !!!");
+	  System.out.println("Hello from Main what are you doing Method & Hi & Good Evening This is your trainer !!!");
   }
 	
 }
